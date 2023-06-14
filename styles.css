@@ -1,0 +1,22 @@
+#container{
+    width: 500px;
+    background-color: white;
+    border-radius: 2%;
+}
+#half{
+    font-size: 450px;
+    text-align: center;
+}
+#up{
+    font-size: 120px;
+    margin-left: 15px;
+
+}
+#down{
+    font-size: 120px;
+    text-align: right;
+    margin-right: 15px;
+}
+body{
+    background-color: black;
+}
